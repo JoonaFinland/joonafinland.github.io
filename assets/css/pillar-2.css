@@ -142,6 +142,10 @@ small {
   font-size: 80%;
 }
 
+.big-list {
+  padding-left: 20px;
+}
+
 sub,
 sup {
   position: relative;
